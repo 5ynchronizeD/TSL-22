@@ -57,7 +57,7 @@ Last modified by: Anno Sportel (anno.sportel@itwindustry.nl)
 * Change: Text at back of element if mountingstud is at the back.
 *               Swap with and height of mounting stud.
 *
-* Revised: Lars Rådman, CAD-Q 060901 (v1.3)
+* Revised: Lars Rï¿½dman, CAD-Q 060901 (v1.3)
 * Change: Material property added. Height, depth and material properties made blocking-unique through
 *               comma-separated text strings. Separation character changed from ';' to ',' to be able to load
 *               data from DXI. Blocking material displayed as text inside each blocking.
