@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hsb_Map>
+<lst nm="Golv_SH_H1">
+<str nm="Materials" vl="PR1;PR2"/>
+</lst>
+<lst nm="Golv_SH_H2">
+<str nm="Materials" vl="PR3"/>
+</lst>
+<unit ut="L" uv="millimeter"/>
+<unit ut="A" uv="radian"/>
+</Hsb_Map>

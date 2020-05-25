@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hsb_Map>
+<lst nm="Bomlink Exporter Volym">
+<str nm="Exports" vl="HSB_E-ResetZoneOutlines:MasterToSatelitte;Myr-AttachPS:MasterToSatelitte;Myr-MapModules:MasterToSatelitte"/>
+</lst>
+<lst nm="Bomlink Exporter">
+<str nm="Exports" vl="HSB_E-ResetZoneOutlines:MasterToSatelitte;Myr-AttachPS:MasterToSatelitte;Myr-MapModules:MasterToSatelitte"/>
+</lst>
+<unit ut="L" uv="millimeter"/>
+<unit ut="A" uv="radian"/>
+</Hsb_Map>

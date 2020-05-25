@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hsb_Map>
+<lst nm="510;714;919;MH_EL;Window;2552">
+<str nm="OpeningName" vl="SX5-EL"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="714"/>
+<str nm="BottomHeight" vl="919"/>
+<str nm="OpeningDetail" vl="MH_EL"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Rectangular"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-18"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-14"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;191;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-7"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;191,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-7-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-14-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;191,891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-6-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;808;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-8"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1108;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-11"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1208;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-12"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1308;791;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-13"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1508;591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1608;491;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-16"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1608"/>
+<str nm="BottomHeight" vl="491"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1708;391;MH_FO;Window;2552">
+<str nm="OpeningName" vl="5-17"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="391"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;2008;91;MH_FO20;Window;2552">
+<str nm="OpeningName" vl="5-20"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-18"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-14"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;191;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-7"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;191,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-7-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-14-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;508;191,891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-5-6-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;808;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-8"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;1108;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-11"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;1208;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-12"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;1308;791;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-13"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;1508;591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;1608;491;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-16"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1608"/>
+<str nm="BottomHeight" vl="491"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;1708;391;MH_FO;Window;2552">
+<str nm="OpeningName" vl="8-17"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="391"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;2008;91;MH_FO20;Window;2552">
+<str nm="OpeningName" vl="8-20"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;191;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-7"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-14"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-18"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;191,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-7-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-14-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;191,891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-6-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;608;1491;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-6"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="1491"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;808;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-8"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-11"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;791;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-11-19"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-12"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-13"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1508;591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1608;491;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-16"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1608"/>
+<str nm="BottomHeight" vl="491"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1708;391;MH_FO;Window;2552">
+<str nm="OpeningName" vl="11-17"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="391"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;2008;91;MH_FO20;Window;2552">
+<str nm="OpeningName" vl="11-20"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;2308;91;MH_FO23;Window;2552">
+<str nm="OpeningName" vl="11-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="2308"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO23"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;191;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-7"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-18"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-14"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;191,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-7-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-14-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;191,891,1591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-5-6-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="191,891,1591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;808;1291;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-8"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;1108;991;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-11"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;1208;891;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-12"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;1308;791;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-13"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;1508;591;MH_FO;Window;2552">
+<str nm="OpeningName" vl="17-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;2008;91;MH_FO20;Window;2552">
+<str nm="OpeningName" vl="17-20"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;510;1289;MH_FO5_RU;Window;2552">
+<str nm="OpeningName" vl="11-5RU"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="510"/>
+<str nm="BottomHeight" vl="1289"/>
+<str nm="OpeningDetail" vl="MH_FO5_RU"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="610;610;1489;MH_FO6_RU;Window;2552">
+<str nm="OpeningName" vl="12-6RU"/>
+<dbl nm="OpeningWidth" ut="L" vl="610"/>
+<dbl nm="OpeningHeight" ut="L" vl="610"/>
+<str nm="BottomHeight" vl="1489"/>
+<str nm="OpeningDetail" vl="MH_FO6_RU"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="810;810;1289;MH_FO8_RU;Window;2552">
+<str nm="OpeningName" vl="15-8RU"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="810"/>
+<str nm="BottomHeight" vl="1289"/>
+<str nm="OpeningDetail" vl="MH_FO8_RU"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1500"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1110;989;MH_FO11_RU;Window;2552">
+<str nm="OpeningName" vl="18-11RU"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1110"/>
+<str nm="BottomHeight" vl="989"/>
+<str nm="OpeningDetail" vl="MH_FO11_RU"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;991;MH_FOH;Window;2552">
+<str nm="OpeningName" vl="11-11H"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FOH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;991;MH_FOV;Window;2552">
+<str nm="OpeningName" vl="11-11V"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FOV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;991;MH_FOM;Window;2552">
+<str nm="OpeningName" vl="11-11M"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FOM"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FOUH;Window;2552">
+<str nm="OpeningName" vl="11-13UH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FOUH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FOUV;Window;2552">
+<str nm="OpeningName" vl="11-13UV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FOUV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FOUM;Window;2552">
+<str nm="OpeningName" vl="11-13UM"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FOUM"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FOUMH;Window;2552">
+<str nm="OpeningName" vl="11-13UMH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FOUMH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FOUMV;Window;2552">
+<str nm="OpeningName" vl="11-13UMV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FOUMV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;MH_FOUMM;Window;2552">
+<str nm="OpeningName" vl="11-13UMM"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FOUMM"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FOUH;Window;2552">
+<str nm="OpeningName" vl="11-12UH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FOUH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FOUV;Window;2552">
+<str nm="OpeningName" vl="11-12UV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FOUV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FOUM;Window;2552">
+<str nm="OpeningName" vl="11-12UM"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FOUM"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FOUMH;Window;2552">
+<str nm="OpeningName" vl="11-12UMH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FOUMH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FOUMV;Window;2552">
+<str nm="OpeningName" vl="11-12UMV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FOUMV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;MH_FOUMM;Window;2552">
+<str nm="OpeningName" vl="11-12UMM"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FOUMM"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="910;2099;0;MH_YD9_21;Door;2552">
+<str nm="OpeningName" vl="910-21E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="910"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD9_21"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2008;91;MH_FD10_20;Door;2552">
+<str nm="OpeningName" vl="101-20E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FD10_20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10;Door;2552">
+<str nm="OpeningName" vl="101-21E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1410;2008;91;MH_FD14_20;Door;2552">
+<str nm="OpeningName" vl="141-20E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FD14_20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1410;2099;0;MH_FD14;Door;2552">
+<str nm="OpeningName" vl="141-21E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;2099;0;MH_FD17;Door;2552">
+<str nm="OpeningName" vl="171-21E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD17"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1900"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;2008;91;MH_FD17_20;Door;2552">
+<str nm="OpeningName" vl="171-20E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FD17_20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1900"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1410;2099;0;MH_YD10-SL4;Door;2552">
+<str nm="OpeningName" vl="141-21E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD10-SL4"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1020;2099;0;MH_YD10;Door;2552">
+<str nm="OpeningName" vl="102-21E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1020"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1420;2099;0;MH_YD14;Door;2552">
+<str nm="OpeningName" vl="142-21E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1420"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1720;2099;0;MH_YD17;Door;2552">
+<str nm="OpeningName" vl="172-21E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1720"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD17"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1900"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10LM;Door;2552">
+<str nm="OpeningName" vl="101-21LM"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10LM"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10UV;Door;2552">
+<str nm="OpeningName" vl="101-21UV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10UV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10UH;Door;2552">
+<str nm="OpeningName" vl="101-21UH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10UH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10UMV;Door;2552">
+<str nm="OpeningName" vl="101-21UMV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10UMV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10UMH;Door;2552">
+<str nm="OpeningName" vl="101-21UMH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10UMH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10-20UV;Door;2552">
+<str nm="OpeningName" vl="101-20UV"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10-20UV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_FD10-20UH;Door;2552">
+<str nm="OpeningName" vl="101-20UH"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10-20UH"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;714;919;MH_EL;Window;2752">
+<str nm="OpeningName" vl="5-EL-27"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="714"/>
+<str nm="BottomHeight" vl="919"/>
+<str nm="OpeningDetail" vl="MH_EL"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Rectangular"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;508;1791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-5-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;508;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-5-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;508;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-5-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;808;1291;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-8-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;1308;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-13-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;1408;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1408"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;1508;791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;1708;591;MH_FO;Window;2752">
+<str nm="OpeningName" vl="5-17-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;2208;91;MH_FO20;Window;2752">
+<str nm="OpeningName" vl="5-22-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="2208"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;508;1791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-5-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;508;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-5-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;508;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-5-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;808;1291;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-8-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1291"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;1308;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-13-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;1408;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1408"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;1508;791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;1708;591;MH_FO;Window;2752">
+<str nm="OpeningName" vl="8-17-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="810;2208;91;MH_FO20;Window;2752">
+<str nm="OpeningName" vl="8-22-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="2208"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;508;1791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-5-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;508;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-5-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;508;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-5-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;608;1691;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-6-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="1691"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;808;1491;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-8-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1491"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;1308;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-13-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;1408;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1408"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;1508;791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;1708;591;MH_FO;Window;2752">
+<str nm="OpeningName" vl="11-17-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1110;2208;91;MH_FO20;Window;2752">
+<str nm="OpeningName" vl="11-22-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="2208"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;508;1791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-5-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;508;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-5-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;508;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-5-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;808;1691;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-8-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="808"/>
+<str nm="BottomHeight" vl="1691"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;1308;991;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-13-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;1408;891;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-14-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1408"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;1508;791;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-15-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;1708;591;MH_FO;Window;2752">
+<str nm="OpeningName" vl="17-17-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="1708"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="MH_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;2208;91;MH_FO20;Window;2752">
+<str nm="OpeningName" vl="17-22-23"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="2208"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="MH_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1010;2299;0;MH_FD10;Door;2752">
+<str nm="OpeningName" vl="101-23E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2299"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1410;2299;0;MH_FD14;Door;2752">
+<str nm="OpeningName" vl="141-23E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2299"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1710;2299;0;MH_FD17;Door;2752">
+<str nm="OpeningName" vl="171-23E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="2299"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_FD17"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1900"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1020;2299;0;MH_YD10;Door;2752">
+<str nm="OpeningName" vl="102-23E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1020"/>
+<dbl nm="OpeningHeight" ut="L" vl="2299"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1420;2299;0;MH_YD14;Door;2752">
+<str nm="OpeningName" vl="142-23E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1420"/>
+<dbl nm="OpeningHeight" ut="L" vl="2299"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="1720;2299;0;MH_YD17;Door;2752">
+<str nm="OpeningName" vl="172-23E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1720"/>
+<dbl nm="OpeningHeight" ut="L" vl="2299"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_YD17"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1900"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2752"/>
+</lst>
+<lst nm="510;508;891;MH_FO-FV;Window;1722">
+<str nm="OpeningName" vl="5-5L"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="510;608;791;MH_FO-FV;Window;1722">
+<str nm="OpeningName" vl="5-6L"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="810;508;891;MH_FO-FV;Window;1722">
+<str nm="OpeningName" vl="8-5L"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="810;608;791;MH_FO-FV;Window;1722">
+<str nm="OpeningName" vl="8-6L"/>
+<dbl nm="OpeningWidth" ut="L" vl="810"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="900"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="1110;508;891;MH_FO-FV;Window;1722">
+<str nm="OpeningName" vl="11-5L"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="MH_FO-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="1110;608;791;MH_FO-FV;Window;1722">
+<str nm="OpeningName" vl="11-6L"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="1110;555;791;MH_FO11_HRU-FV;Window;1722">
+<str nm="OpeningName" vl="11-11HRUL"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="555"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="MH_FO11_HRU-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1722"/>
+</lst>
+<lst nm="510;508;347;MH_FO-FV1;Window;1090">
+<str nm="OpeningName" vl="5-5L2"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="347"/>
+<str nm="OpeningDetail" vl="MH_FO-FV1"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1090"/>
+</lst>
+<lst nm="510;608;247;MH_FO-FV1;Window;1090">
+<str nm="OpeningName" vl="5-6L2"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="247"/>
+<str nm="OpeningDetail" vl="MH_FO-FV1"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1090"/>
+</lst>
+<lst nm="1110;508;347;MH_FO-FV1;Window;1090">
+<str nm="OpeningName" vl="11-5L2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="347"/>
+<str nm="OpeningDetail" vl="MH_FO-FV1"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1090"/>
+</lst>
+<lst nm="1110;608;247;MH_FO-FV1;Window;1090">
+<str nm="OpeningName" vl="11-6L2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="608"/>
+<str nm="BottomHeight" vl="247"/>
+<str nm="OpeningDetail" vl="MH_FO-FV1"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1090"/>
+</lst>
+<lst nm="1110;555;347;MH_FO11_HRU-FV;Window;1090">
+<str nm="OpeningName" vl="11-11HRUL2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="555"/>
+<str nm="BottomHeight" vl="347"/>
+<str nm="OpeningDetail" vl="MH_FO11_HRU-FV"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="1090"/>
+</lst>
+<lst nm="510;720;580;SMV_EL;Window;2552">
+<str nm="OpeningName" vl="5-EL"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="720"/>
+<str nm="BottomHeight" vl="580"/>
+<str nm="OpeningDetail" vl="SMV_EL"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Rectangular"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;1591;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-5"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;508;909;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-5-14"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="909"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;908;1191;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-9"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="908"/>
+<str nm="BottomHeight" vl="1191"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1108;991;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-11"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1208;891;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-12"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1308;791;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-13"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1508;591;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;1608;491;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="5-16"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="1608"/>
+<str nm="BottomHeight" vl="491"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="510;2008;91;SMV_FO20;Window;2552">
+<str nm="OpeningName" vl="5-20"/>
+<dbl nm="OpeningWidth" ut="L" vl="510"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="SMV_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="600"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;1591;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-5"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;909;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-5-14"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="909"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;991;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-11"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1208;891;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-12"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1208"/>
+<str nm="BottomHeight" vl="891"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1308;791;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-13"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1308"/>
+<str nm="BottomHeight" vl="791"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1508;591;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-15"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1508"/>
+<str nm="BottomHeight" vl="591"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1608;491;SMV_FO;Window;2552">
+<str nm="OpeningName" vl="11-16"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1608"/>
+<str nm="BottomHeight" vl="491"/>
+<str nm="OpeningDetail" vl="SMV_FO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;2008;91;SMV_FO20;Window;2552">
+<str nm="OpeningName" vl="11-20"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="2008"/>
+<str nm="BottomHeight" vl="91"/>
+<str nm="OpeningDetail" vl="SMV_FO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;SMV_FD10;Door;2552">
+<str nm="OpeningName" vl="101-21E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="SMV_FD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1410;2099;0;SMV_FD14;Door;2552">
+<str nm="OpeningName" vl="141-21E1"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="SMV_FD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1020;2099;0;SMV_YD10;Door;2552">
+<str nm="OpeningName" vl="102-21E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1020"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="SMV_YD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1420;2099;0;SMV_YD14;Door;2552">
+<str nm="OpeningName" vl="142-21E2"/>
+<dbl nm="OpeningWidth" ut="L" vl="1420"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="SMV_YD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="555;725;900;MH_MEL_2399;Window;2399">
+<str nm="OpeningName" vl="313-EL-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="555"/>
+<dbl nm="OpeningHeight" ut="L" vl="725"/>
+<str nm="BottomHeight" vl="900"/>
+<str nm="OpeningDetail" vl="MH_MEL_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="645"/>
+<str nm="OpeningStyle" vl="Rectangular"/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="555;725;900;MH_MEL;Window;2552">
+<str nm="OpeningName" vl="113-EL-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="555"/>
+<dbl nm="OpeningHeight" ut="L" vl="725"/>
+<str nm="BottomHeight" vl="900"/>
+<str nm="OpeningDetail" vl="MH_MEL"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="645"/>
+<str nm="OpeningStyle" vl="Rectangular"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;508;1591;MH_MFO_2399;Window;2399">
+<str nm="OpeningName" vl="301-11-5-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_MFO_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1110;1108;991;MH_MFO_2399;Window;2399">
+<str nm="OpeningName" vl="302-11-11-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_MFO_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1110;2010;89;MH_MFO20_2399;Window;2399">
+<str nm="OpeningName" vl="305-11-20-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="2010"/>
+<str nm="BottomHeight" vl="89"/>
+<str nm="OpeningDetail" vl="MH_MFO20_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1110;508;1591;MH_MFO;Window;2552">
+<str nm="OpeningName" vl="101-11-5-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_MFO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;1108;991;MH_MFO;Window;2552">
+<str nm="OpeningName" vl="102-11-11-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="1108"/>
+<str nm="BottomHeight" vl="991"/>
+<str nm="OpeningDetail" vl="MH_MFO"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1110;2010;89;MH_MFO20;Window;2552">
+<str nm="OpeningName" vl="105-11-20-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1110"/>
+<dbl nm="OpeningHeight" ut="L" vl="2010"/>
+<str nm="BottomHeight" vl="89"/>
+<str nm="OpeningDetail" vl="MH_MFO20"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1020;2099;0;MH_MYD10_2399;Door;2399">
+<str nm="OpeningName" vl="306-10-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1020"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MYD10_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1020;2099;0;MH_MYD10;Door;2552">
+<str nm="OpeningName" vl="106-10-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1020"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MYD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="2640;2095;0;MH_MGPORTM26_2399;Door;2399">
+<str nm="OpeningName" vl="307-26-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="2640"/>
+<dbl nm="OpeningHeight" ut="L" vl="2095"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTM26_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="3000"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="5040;2061;0;MH_MGPORTM26_2399;Door;2399">
+<str nm="OpeningName" vl="307-50-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="5040"/>
+<dbl nm="OpeningHeight" ut="L" vl="2061"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTM26_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="3000"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="5040;2095;0;MH_MGPORTM26_2399;Door;2399">
+<str nm="OpeningName" vl="309-50-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="5040"/>
+<dbl nm="OpeningHeight" ut="L" vl="2095"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTM26_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="5400"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="2452;2090;0;MH_MGPORTMC_2399;Door;2399">
+<str nm="OpeningName" vl="307-24-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="2452"/>
+<dbl nm="OpeningHeight" ut="L" vl="2091"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTMC_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="2700"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="2490;2066;0;MH_MGPORTMS_2399;Door;2399">
+<str nm="OpeningName" vl="308-25-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="2490"/>
+<dbl nm="OpeningHeight" ut="L" vl="2056"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTMS_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="2700"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="2452;2090;0;MH_MGPORTMC;Door;2552">
+<str nm="OpeningName" vl="107-24-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="2452"/>
+<dbl nm="OpeningHeight" ut="L" vl="2091"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTMC"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="2700"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="2490;2066;0;MH_MGPORTMS;Door;2552">
+<str nm="OpeningName" vl="108-25-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="2490"/>
+<dbl nm="OpeningHeight" ut="L" vl="2056"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTMS"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="2700"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="2640;2090;0;MH_MGPORTM26;Door;2552">
+<str nm="OpeningName" vl="107-26-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="2640"/>
+<dbl nm="OpeningHeight" ut="L" vl="2095"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTM26"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="3000"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="5040;2090;0;MH_MGPORTM26;Door;2552">
+<str nm="OpeningName" vl="107-50-21"/>
+<dbl nm="OpeningWidth" ut="L" vl="5040"/>
+<dbl nm="OpeningHeight" ut="L" vl="2095"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MGPORTM26"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="5400"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1710;508;1591;MH_MFO17_2399;Window;2399">
+<str nm="OpeningName" vl="999-17-5-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_MFO17_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1710;508;1591;MH_MFO17;Window;2552">
+<str nm="OpeningName" vl="999-17-5-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1710"/>
+<dbl nm="OpeningHeight" ut="L" vl="508"/>
+<str nm="BottomHeight" vl="1591"/>
+<str nm="OpeningDetail" vl="MH_MFO17"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl="Standard"/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1420;2099;0;MH_MYD14_2399;Door;2399">
+<str nm="OpeningName" vl="999-14-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1420"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MYD14_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1420;2099;0;MH_MYD14;Door;2552">
+<str nm="OpeningName" vl="999-14-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1420"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MYD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1010;2099;0;MH_MFD10_2399;Door;2399">
+<str nm="OpeningName" vl="999-10-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MFD10_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1010;2099;0;MH_MFD10;Door;2552">
+<str nm="OpeningName" vl="999-10-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1010"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MFD10"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1200"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<lst nm="1410;2099;0;MH_MFD14_2399;Door;2399">
+<str nm="OpeningName" vl="999-14-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MFD14_2399"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2399"/>
+</lst>
+<lst nm="1410;2099;0;MH_MFD14;Door;2552">
+<str nm="OpeningName" vl="999-14-21-B"/>
+<dbl nm="OpeningWidth" ut="L" vl="1410"/>
+<dbl nm="OpeningHeight" ut="L" vl="2099"/>
+<str nm="BottomHeight" vl="0"/>
+<str nm="OpeningDetail" vl="MH_MFD14"/>
+<int nm="OpeningType" vl="2"/>
+<dbl nm="TotalWidth" ut="L" vl="1800"/>
+<str nm="OpeningStyle" vl=""/>
+<dbl nm="WallHeight" ut="L" vl="2552"/>
+</lst>
+<unit ut="L" uv="millimeter"/>
+<unit ut="A" uv="radian"/>
+</Hsb_Map>
